@@ -5,7 +5,7 @@ function petRodent(){
     let cute = confirm("Do you wanna cute pet?");
     if (cute == true) {
         pet = "hamster";
-        bgImg = "pets.png"
+        bgImg = "hampster.jpg"
     }
     else {
         pet = "rat"; 
